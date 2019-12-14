@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 150px;
+	font-style: normal;
+	font-weight:700;
+	text-align: left;
+	color:darkblue;
+}
+
+h2{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 80px;
+	font-weight:700;
+	text-align: left;
+	color: dodgerblue;
+}
+
+a{
+	text-decoration:none
+}
+
+p{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size:50px;
+	font-weight:550;
+	text-align:right;
+	color:aliceblue;
+}
+
+	
+		
+	
+
+
+
+
+
+
+
+
